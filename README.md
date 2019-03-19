@@ -1,2 +1,2 @@
-# node-example
+# Node Example
 Basic Node Application
